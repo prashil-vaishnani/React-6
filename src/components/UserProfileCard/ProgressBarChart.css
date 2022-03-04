@@ -1,0 +1,27 @@
+.division {
+  display: flex;
+  width: 100%;
+}
+
+.child {
+  flex: 1;
+}
+.status {
+  font-size: x-large;
+  font-weight: bold;
+}
+.font_size {
+  font-size: small;
+}
+.bar_style {
+  height: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: orange;
+}
+.cardUserPlanUsage {
+  font-size: 12px;
+  font-weight: 600;
+  margin-top: 20px;
+  align-self: flex-start;
+}
