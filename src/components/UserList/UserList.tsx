@@ -84,6 +84,7 @@ export const UserList = (props: {
                   </td>
                   <td className="">
                     <select className="selectMenu" value={user.userStatus}>
+                      <option value="Active">Active</option>
                       <option value="Inactive">Inactive</option>
                     </select>
                   </td>
