@@ -18,4 +18,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Demo
 
-https://react-pr-6.web.app/
+https://practical-6-fa1f7.web.app/
