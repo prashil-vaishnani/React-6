@@ -55,7 +55,7 @@ export const UserList = (props: {
                   <td>
                     <Icon.Lock
                       size={18}
-                      style={{ color: "rgba(0, 0, 0, 0.6)" }}
+                      style={{ cursor: "pointer", color: "rgba(0, 0, 0, 0.6)" }}
                     />
                   </td>
                 </tr>
@@ -96,7 +96,7 @@ export const UserList = (props: {
                   <td className="">
                     <Icon.Trash2
                       size={18}
-                      style={{ color: "rgba(0, 0, 0, 0.6)" }}
+                      style={{ cursor: "pointer", color: "rgba(0, 0, 0, 0.6)" }}
                     />
                   </td>
                 </tr>
